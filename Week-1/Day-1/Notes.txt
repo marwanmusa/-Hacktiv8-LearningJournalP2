@@ -1,0 +1,14 @@
+Glossary: https://developers.google.com/machine-learning/glossary#batch_size 
+slides: 
+- https://slideplayer.com/slide/5726881/ 
+- https://www.slideserve.com/phelan-cortez/artificial-neural-networks 
+Konsep MTK: https://vincentmichael089.medium.com/machine-learning-1-single-layer-perceptron-9d94c62f1970 
+https://www.kaggle.com/code/yuqizheng/neural-networks-for-beginners-math-programming
+
+-------------------------------------------------------------------------------------------------------------------
+Konsep dasar + ilustrasi gambar: https://www.kaggle.com/code/mrhippo/data-science-notes5-deep-learning-ann/notebook
+ 
+Tambahan: 
+https://www.kaggle.com/code/mirichoi0218/ann-making-model-for-binary-classification/notebook
+https://www.kaggle.com/code/sardiirfansyah/tensorflow-input-pipeline-prefetch-tf-data
+

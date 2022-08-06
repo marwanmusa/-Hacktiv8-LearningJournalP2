@@ -1,0 +1,5 @@
+NLP B.Indo Resources 1 = https://github.com/irfnrdh/Awesome-Indonesia-NLP
+NLP B.Indo Resources 2 = https://github.com/louisowen6/NLP_bahasa_resources
+
+NLP Sentiment Analysis: https://colab.research.google.com/drive/1GgH4hmMGmYiJPk5EiZf4_9FUmqBuCahe?usp=sharing
+NLP MBTI - Pre-trained embedding : https://github.com/fahmimnalfrzki/Personality-Detection-NLP/blob/main/modelling_english.ipynb

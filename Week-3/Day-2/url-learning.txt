@@ -1,0 +1,3 @@
+https://docs.looker.com/data-modeling/learning-lookml/what-is-lookml
+
+https://www.cloudskillsboost.google/paths/28

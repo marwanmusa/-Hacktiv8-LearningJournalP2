@@ -1,0 +1,15 @@
+Perbedaan Input pipeline dengan tf.data dan ImageDataGenerator 
+- httpstowardsdatascience.comwhat-is-the-best-input-pipeline-to-train-image-classification-models-with-tf-keras-eb3fe26d3cc5 
+- httpstowardsdatascience.comtime-to-choose-tensorflow-data-over-imagedatagenerator-215e594f2435 
+---------------------------------------------------------------------------------------------------------------------------
+Contoh untuk images
+- httpspyimagesearch.com20210628data-augmentation-with-tf-data-and-tensorflow 
+- httpswww.tensorflow.orgtutorialsimagesdata_augmentation
+--------------------------------------------------------------------------------------------------------------------------- 
+Video tutorial dan penjelasan
+- httpsyoutu.bec7G5W4Wv72Q 
+- httpsyoutu.beMLEKEplgCas 
+---------------------------------------------------------------------------------------------------------------------------
+tf.data csv
+- httpswww.tensorflow.orgtutorialsload_datacsv 
+- httpswww.tensorflow.orgguidedata 

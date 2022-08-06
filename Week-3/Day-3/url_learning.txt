@@ -1,0 +1,11 @@
+Ingesting New Datasets into BigQuery:
+https://www.cloudskillsboost.google/focuses/3692?parent=catalog
+
+Exploring Your Ecommerce Dataset with SQL in Google BigQuery:
+https://www.cloudskillsboost.google/focuses/3618?parent=catalog
+
+How to Build a BI Dashboard Using Google Data Studio and BigQuery:
+https://www.cloudskillsboost.google/focuses/5538?parent=catalog
+
+Machine Learning with Spark on Google Cloud Dataproc:
+https://www.cloudskillsboost.google/focuses/3390?parent=catalog
